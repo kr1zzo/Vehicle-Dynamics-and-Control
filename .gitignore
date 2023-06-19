@@ -1,0 +1,5 @@
+*.*
+!.gitignore
+!MUDV_projekt.slx
+!MUDV_projekt*.pdf
+!MUDV_projekt*.pptx
